@@ -1,0 +1,17 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "A youtube downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roheith",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.11.4"
+  }
+}
